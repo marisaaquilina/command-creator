@@ -11,10 +11,7 @@ The program will output the sequence of commands that construct your desired seq
 If you run the same input of integers more than once, you'll most likely get a different sequence of commands. This is because the genetic algorithm uses some randomization by nature. While they are both valid, one of them may be more concise than the other.
 
 ## What Do the Commands Mean?
-`>` to move right
-`<` to move left
-`+` to increment value
-`-` to decrement value
+`>` to move right | `<` to move left | `+` to increment value | `-` to decrement value
 
 ## Quitting the Game
 Type Q, press Enter
